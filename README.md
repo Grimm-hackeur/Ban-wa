@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=NEXUS-V1+by+GRIMM;Outil+%F0%9F%94%91+%C3%A9ducatif+Termux+%2B+Python;Envoyeur+automatique+de+signalements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=NEXUS-V1+by+GRIMM;Outil+%F0%9F%94%91+%C3%A9ducatif+Termux+%2B+Python;Envoyeur+automatique+de+secret" alt="Typing SVG" />
 </p>
 
 ---
