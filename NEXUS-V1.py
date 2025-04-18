@@ -47,16 +47,24 @@ def get_message():
     whatsapp_link = f"https://api.whatsapp.com/send?phone={number}"
     
     # >>>> MODIFIE ICI TON MESSAGE <<<<
-    subject = "Demande d'intervention"
-    body = f"""Bonjour,
+    subject = "criminal "
+    body = f"""HI, I'M MARC, A CHILD PORNOGRAPHY ACTOR AND AN ORGAN TRAFFICKER.
 
-Je vous contacte concernant le numéro suivant : {number}
+HERE ARE SOME VIDEOS AND IMAGES OF WHAT I DO.
+
+https://image.noelshack.com/fichiers/2025/15/1/1744035179-img-20250404-190355-761.jpg
+
+https://ibb.co.com/2nMXfTY
+
+https://www.mediafire.com/file/6p0ecl3po76kj3g/2025-04-07-132009683.mp4/file
+
+ALL MY CLIENTS ARE SATISFIED WITH THE WORK I DO. I ALSO WORK WITH GREAT MEN WHO KEEP ME OUT OF PRISON. THIS WORK IS WITHOUT RISK IF YOU HAVE RELATIONSHIPS, AND I HAVE MANY RELATIONSHIPS ALL OVER THE WORLD, AND THE WORK IS WELL-PAID. YOU CAN MAKE MORE THAN 1 MILLION A WEEK.
+
+IF YOU WANT TO WORK WITH ME, WRITE TO MY MAIN NUMBER. YOU WILL BE PAID 500,000 FRANCS TO START. SINCE IT'S A START, BUT IT'S UP TO YOU TO DECIDE IF YOU WANT TO BE AN ORGAN TRAFFICKER OR A CHILD PORNOGRAPHY ACTOR. HERE'S MY NUMBER. CONTACT ME.
+
+https://api.whatsapp.com/send?phone= : {number}
 
 Lien vers le profil : {whatsapp_link}
-
-Merci d'enquêter.
-
-Cordialement,
 GRIMM.
 """
     return subject, body
