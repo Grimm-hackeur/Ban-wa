@@ -18,11 +18,41 @@
 
 ---
 
-## Installation
+## Installation & Exécution
+
+Voici les étapes pour installer et exécuter **NEXUS-V1** via Termux :
 
 ```bash
+# 1. Mettre à jour Termux
 pkg update && pkg upgrade -y
+
+# 2. Installer les dépendances nécessaires
 pkg install git python -y
-git clone https://github.com/Grimm-hackeur/NEXUS-V1.git
-cd NEXUS-V1
-bash run.s
+pip install requests
+
+# 3. Cloner le dépôt GitHub
+git clone https://github.com/Grimm-hackeur/Ban-wa.git
+cd Ban-wa
+
+# 4. Rendre le script exécutable
+chmod +x run.sh
+
+# 5. Lancer l'outil
+bash run.sh
+```
+
+---
+
+**Fonctionnalités** :
+- Script éducatif développé par **GRIMM**
+- Envoi automatique de messages (signaux ou autres) via email
+- Génération de lien WhatsApp cliquable :
+  `https://api.whatsapp.com/send?phone=NUMÉRO_ICI`
+- Interface protégée
+- Configuration personnalisée
+
+---
+
+**Développeur** : GRIMM  
+**Licence** : MIT
+
